@@ -1,4 +1,5 @@
-# data_science_projects
+# data_science_projects:
+This repository is for data the following projects that I have completed in data science. 
 
 1.[Fake Album Cover Game](https://github.com/saadkazi444/data_science_projects/blob/master/FakeAlbumCoverGame.ipynb)
 
