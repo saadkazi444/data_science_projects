@@ -1,7 +1,20 @@
 # data_science_projects
 
- 1.[Fake Album Cover Game](https://github.com/saadkazi444/data_science_projects/blob/master/FakeAlbumCoverGame.ipynb)
+1.[Fake Album Cover Game](https://github.com/saadkazi444/data_science_projects/blob/master/FakeAlbumCoverGame.ipynb)
 
+In this Project we have made a random album cover page through web scrapping(This Project is from Coursera)
+
+## Understanding what exactly we are doing:
+ We are downloading a random web page from wikipedia and extracting our album title and then we are pasting the title on a random photo downloaded.
+ This is what exactly our project should look like:
+ 
+ ![Sample](https://github.com/saadkazi444/data_science_projects/blob/master/images/fakecover1.png)
+
+## The steps followed:
+ First we download a random page from wikipedia, now by using Beautiful Soup we are scarpping the 2 words from it, one for the song title and other for album title.
+ The extracted word are now pasted on a random image downloaded and our final answer looks something like this:
+ 
+ ![Sample](https://github.com/saadkazi444/data_science_projects/blob/master/images/fakecover2.png)
 
 2. [EDA on Car Dekho Used Car Data](https://github.com/saadkazi444/data_science_projects/blob/master/eda-on-cardekho-data.ipynb)
 
@@ -29,3 +42,4 @@
    
    ![Sample](https://github.com/saadkazi444/data_science_projects/blob/master/images/image1.png)
    
+
