@@ -1,5 +1,8 @@
 # data_science_projects
 
+ 1.[Fake Album Cover Game](https://github.com/saadkazi444/data_science_projects/blob/master/FakeAlbumCoverGame.ipynb)
+
+
 2. [EDA on Car Dekho Used Car Data](https://github.com/saadkazi444/data_science_projects/blob/master/eda-on-cardekho-data.ipynb)
 
    In this Project we have done an Exploratory analysis on Used Car Data of CarDekho, helping us understand how different cars have different depreciation and what are the factors affecting depreciation.
