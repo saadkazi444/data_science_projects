@@ -43,4 +43,16 @@ In this Project we have made a random album cover page through web scrapping(Thi
    
    ![Sample](https://github.com/saadkazi444/data_science_projects/blob/master/images/image1.png)
    
+   ## Understangind other variables
+    To understand and analyze other variables affecting depreciation of car, data needs to be transformed.
+    
+    If we analyze depreciation with fuel type, diesel fuel type shows the maximum depreciation, howevere this is biased since our data contains a large number of diesel cars. The same goes with seller type, as one of the type has maximum values in data.
+    
+    ## Final Conclusion:
+     
+     Now if we take all the variables and plot it, it will look like this:
+     ![Sample](https://github.com/saadkazi444/data_science_projects/blob/master/images/index.png)
+     
+     From this we can conclude that the varibales year and kms driven are the most important factors in deciding the depreciation of a used car.
+   
 
